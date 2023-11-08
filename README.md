@@ -1,5 +1,6 @@
 # Netflix-dashboard-analysis
 Dataset link:https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
 The Netflix Shows dashboard on Excel, based on the provided dataset from Kaggle, aims to provide a comprehensive summary and analysis of the Netflix shows available. Here's a summary of what the dashboard might include:
 
   1-Show Distribution: The dashboard provides an overview of the distribution of shows by various attributes such as genre, release year, and country of production. It may include visualizations such as bar charts or treemaps to showcase the distribution patterns.
