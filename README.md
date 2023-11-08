@@ -21,4 +21,4 @@ The Netflix Shows dashboard on Excel, based on the provided dataset from Kaggle,
   
   9-Data Summary: The dashboard can provide a summary of key statistics related to the dataset, such as the total number of shows, unique genres, and countries represented. It gives users a quick overview of the dataset's characteristics.
   
-Overall, the Netflix Shows dashboard on Tableau allows users to explore and analyze the provided dataset, gaining insights into various aspects of the Netflix shows collection and facilitating data-driven decision-making.
+Overall, the Netflix Shows dashboard on Excel allows users to explore and analyze the provided dataset, gaining insights into various aspects of the Netflix shows collection and facilitating data-driven decision-making.
